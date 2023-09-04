@@ -1,5 +1,7 @@
 # PHP IP STEALER
 
+**Disclaimer: This script is for educational purposes only. It should not be used for malicious activities.**
+
 This PHP script allows you to log website visits by sending data to a Discord webhook. It captures information such as the user agent, IP address, and timestamp of the visit, and sends it to a specified Discord channel for monitoring and analysis.
 
 ## Usage
